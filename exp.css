@@ -1,0 +1,108 @@
+.title{
+  text-align:center;
+  font-family:"Lucida Grande","Lucida Sans Unicode";
+  padding-bottom:0px;
+  margin:8px auto 0px auto;
+  color: #505050;
+}
+
+div.align {
+font-family: sans-sarif;
+font-size: 10px;
+text-align: center;
+padding-top:0px;
+padding-bottom:50px;
+}
+
+.content{ 
+box-shadow: 0px 0px 5px 5px #2E7Aa0;
+width: 80%;
+height:800px;
+background:#ffffff;
+margin: 50px auto 0px auto;
+}
+
+.header{
+text-align:center;
+font:12px "Lucida Grande","Lucida Sans Unicode";
+font-size:20px;
+padding-top:10px;
+}
+
+.footer
+{
+box-shadow: 0px 0px 5px 5px #2E7aa0;
+width:80%;
+height:15px;
+text-align:center;
+margin: 15px auto 50px auto;
+font-family:sans-serif;
+font-size: 11px;
+}
+
+.nav{
+text-align:center;
+font-family:"Lucida Sans Unicode";
+font-size:20px;
+border:1px solid;
+border-radius: 5px;
+margin: 0% 5% 0% 5%;
+width:90%;
+background:#a0a0a0;
+}
+.navHead{
+border: 1.5px solid #000000;
+border-radius:5px;
+width:25%;
+font-size:15px;
+background:#d8d8d8;
+}
+
+.navHead:hover{
+background: linear-gradient(#3baee7, #08c);
+  cursor:hand;
+
+}
+
+#content{
+width: 90%;
+margin: 20px 5% 0% 5%;
+}
+
+.notifications{
+width:130px;
+height:1px;
+border:2px solid #234523;
+margin:	10px 0px 0px 0px;
+border-radius:30px;
+}
+
+.paragraph{
+ padding:0% 5% 0% 5%;
+text-align:justify;
+
+}
+#notifyHead{
+margin-top: 10px;
+text-align:center;
+color:#0404ff;
+height: 10px;
+}
+
+h4{
+margin-top:0px;
+}
+
+html 
+{
+background: #f3f3f3;
+}
+
+.subhead{
+text-align:center;
+padding-top:0px;
+margin-top:0px;
+font-size:15px;
+}
+
+
